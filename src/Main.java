@@ -65,6 +65,5 @@ public class Main {
     System.out.println("Маша теперь получает " + masha + " рублей. Годовой доход вырос на " + mashag + " рублей");
     System.out.println("Денис теперь получает " + denis + " рублей. Годовой доход вырос на " + denisg + " рублей");
     System.out.println("Кристина теперь получает " + kristina + " рублей. Годовой доход вырос на " + kristinag + " рублей");
-
     }
 }
